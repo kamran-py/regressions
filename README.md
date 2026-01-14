@@ -1,2 +1,2 @@
 # regressions
-regressions done for econometrics class
+regressions practice using Stock & Watson - Intro to Econometrics (4th ed.)
