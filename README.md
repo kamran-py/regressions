@@ -1,4 +1,4 @@
-# Econometrics Research Internship Portfolio
+# Econometrics Research
 
 This repository presents applied econometrics, statistical simulation, and
 foundational programming work organized as a research internship portfolio.
