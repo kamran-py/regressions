@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+env/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
+
+# Local data files used by the notebooks are not committed.
+data/
+*.xlsx
+*.xls
+*.csv

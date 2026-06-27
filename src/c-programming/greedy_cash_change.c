@@ -2,13 +2,14 @@
 #include <stdio.h>
 #include <math.h>
 
+// Computes the minimum number of U.S. coins needed for a cash-change amount.
 int main(void)
 
 {
     float change;
     do
     {
-        change = get_float("change: ");    
+        change = get_float("Change owed: ");
     }
     while (change < 0);
     
